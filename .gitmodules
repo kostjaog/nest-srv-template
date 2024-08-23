@@ -1,0 +1,3 @@
+[submodule "src/srv-shared"]
+	path = src/srv-shared
+	url = ../srv-shared.git
